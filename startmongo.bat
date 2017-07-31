@@ -1,0 +1,1 @@
+d:\mongodb\server\3.4\bin\mongod --dbpath d:\mongodb\data
